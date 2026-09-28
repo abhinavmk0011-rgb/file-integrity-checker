@@ -1,0 +1,3 @@
+[2026-09-28 09:58:53.055395] Baseline created for /home/kali/apple: 1 files recorded, 0 skipped.
+[2026-09-28T10:02:37] Check on /home/kali/apple: 0 modified, 0 permission-changed, 1 new, 0 deleted, 1 unchanged.
+[2026-09-28T10:02:49] Check on /home/kali/apple: 0 modified, 0 permission-changed, 1 new, 0 deleted, 1 unchanged.

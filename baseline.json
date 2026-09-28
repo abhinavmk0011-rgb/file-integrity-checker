@@ -1,0 +1,20 @@
+{
+  "target": "/home/kali/apple",
+  "created": "2026-09-28T09:58:53",
+  "excludes": [
+    ".git",
+    "__pycache__",
+    "*.pyc",
+    ".snapshots",
+    "baseline.json",
+    "integrity_log.txt"
+  ],
+  "files": {
+    "/home/kali/apple/abhinav": {
+      "hash": "41914f23ae059a9460eafb8ea81dcfe30a6c53dd36e44a4f28a838458c2b85cf",
+      "size": 11,
+      "mode": "-rwxrwxr-x",
+      "mtime": 1789377020.021448
+    }
+  }
+}
